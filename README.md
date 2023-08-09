@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moataz Mohamed</h1>
 <h3 align="center">A passionate Frontend Developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moataz-armash&label=Profile%20views&color=0e75b6&style=flat" alt="moataz-armash" /> </p>
-
 - 🔭 I’m currently working on **Portfolio**
 
 - 👨‍💻 All of my projects are available at [https://next-deploy-smoky.vercel.app/](https://next-deploy-smoky.vercel.app/)
