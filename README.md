@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Portfolio**
 
-- 👨‍💻 All of my projects are available at [https://next-deploy-smoky.vercel.app/](https://next-deploy-smoky.vercel.app/)
+- 👨‍💻 All of my projects are available at (https://portfolio-pi-eight-87.vercel.app/)
 
 - 💬 Ask me about **Nextjs**
 
