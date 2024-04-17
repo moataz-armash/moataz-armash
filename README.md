@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at (https://portfolio-pi-eight-87.vercel.app/)
 
-- 💬 Ask me about **Nextjs**
+- 💬 Ask me about **Reactjs**
 
 - 📫 How to reach me **https://www.linkedin.com/in/moataz-mohamed-b69404204/**
 
